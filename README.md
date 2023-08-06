@@ -9,7 +9,7 @@ In this repository, I'm delighted to exhibit the practical expertise I've gained
 
 - <b>Kali Linux</b>
 
-<h2>Program walk-through:</h2>
+<h2>Linux Commands walk-through:</h2>
 
 <p align="center">
 <br />
