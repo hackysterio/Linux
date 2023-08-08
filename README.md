@@ -11,7 +11,7 @@ In this repository, I'm delighted to exhibit the practical expertise I've gained
 
 <h2>Linux Commands walk-through:</h2>
 
-<p align="center">
+<p align="left">
 <br />
 The pwd command stands for "print working directory." When you use this command in a terminal, it displays the absolute path of the current directory you are in. This helps you understand where you are located within the file system. In this case, I'm in the root directory:  <br/>
 <img src="https://imgur.com/ImmaB7E.png" height="80%" width="80%" alt="pwd"/>
@@ -48,14 +48,33 @@ The mkdir command stands for "make directory." It is used to create new director
 <img src="https://imgur.com/Uqd9kIv.png" height="80%" width="80%" alt="mkdir"/>
 <br />
 <br />
-<!-- Yo:  <br/>
+The nl command is used to add line numbers to the contents of a text file. It is particularly helpful when you want to reference specific lines within a file, especially in large documents like a wordlist as opposed to the cat command that just lists out the contents of the file. I used the "password.lst" in the "/usr/share/wordlists/metasploit" directory in Kali Linux to display this example:  <br/>
+<img src="https://imgur.com/ry4ABI5.png" height="80%" width="80%" alt="nl"/>
+<img src="https://imgur.com/lVy1VN7.png" height="80%" width="80%" alt="nl"/>
+<img src="https://imgur.com/YySIyKY.png" height="80%" width="80%" alt="nl"/>
+<br />
+<br />
+The grep command is used to search for specific patterns or strings within text files or the output of other commands. grep stands for "Global Regular Expression Print." It is a very powerful tool for searching and filtering the contents of a file. I'll use the grep command to filter out every word that has "foo" from the example I showed above:  <br/>
+<img src="https://imgur.com/u072Nqd.png" height="80%" width="80%" alt="grep"/>
+<br />
+<br />
+<!--The:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Yo:  <br/>
+The:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+The:  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+The:  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+
 Yo:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 </p> -->
